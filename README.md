@@ -3,6 +3,13 @@ pybr11
 
 pythonbrasil11
 
+= Checklist
+
+Aqui devem constar uma lista cronológica de atividades a serem desenvolvidas para o bom andamento da conferência.
+A idéia é que ela sirva de base, que poderão e deverão melhorá-la:
+
+1. Proposta de Patrocínio (Não há problema em mudar data e local da conferência)
+2. Site Simples no Ar (para dar credibilidade à proposta)
 
 ==== Lista de Lembretes 
 
