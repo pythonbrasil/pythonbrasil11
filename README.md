@@ -3,7 +3,7 @@ pybr11
 
 pythonbrasil11
 
-= Checklist
+# Checklist
 
 Aqui devem constar uma lista cronológica de atividades a serem desenvolvidas para o bom andamento da conferência.
 A idéia é que ela sirva de base, que poderão e deverão melhorá-la:
