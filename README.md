@@ -6,10 +6,12 @@ pythonbrasil11
 # Checklist
 
 Aqui devem constar uma lista cronológica de atividades a serem desenvolvidas para o bom andamento da conferência.
-A idéia é que ela sirva de base, que poderão e deverão melhorá-la:
+A idéia é que ela sirva de base, que poderão e deverão melhorá-la. Deve ser genérica para que sirva de fonte de consulta por toda organização:
 
 1. Proposta de Patrocínio (Não há problema em mudar data e local da conferência)
 2. Site Simples no Ar (para dar credibilidade à proposta)
+3. Fechamento de participação de palestrantes internacionais
+4. Fazer chamada de propostas para próxima Python Brasil <http://manual-do-big-kahuna.readthedocs.org/>
 
 ==== Lista de Lembretes 
 
