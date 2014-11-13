@@ -4,7 +4,7 @@ Página que abriga todas as idéias e sugestões para a organização da pythonb
 
 Periodicamente, eu, Giovane Liberato, me comprometo a compilar e apresentar aos outros organizadores.
 
-
+=====================================================================================================================
 **PyBus** - Empresa patrocinando o ônibus de translado entre os participantes na PyCon Argentina. Serviram comida e bebida. Bom networking entre os participantes. 
 **Sugerido por Masanori**
 
