@@ -10,6 +10,14 @@ A idéia é que ela sirva de base, que poderão e deverão melhorá-la. Deve ser
 
 1. Proposta de Patrocínio (Não há problema em mudar data e local da conferência)
 2. Site Simples no Ar (para dar credibilidade à proposta)
+3. Pesquisa de locais
+4. Internet do local
+5. Transporte
+6. Confecção de informativo sobre como chegar ao local
+7. Confecção de informativo sobre opções de estadia
+7. Empresa de som
+8. Empresa de vídeo
+9. Empresa de tradução
 3. Fechamento de participação de palestrantes internacionais
 4. Fazer chamada de propostas para próxima Python Brasil <http://manual-do-big-kahuna.readthedocs.org/>
 
