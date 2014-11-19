@@ -9,7 +9,7 @@ Aqui devem constar uma lista cronológica de atividades a serem desenvolvidas pa
 A idéia é que ela sirva de base, que poderão e deverão melhorá-la. Deve ser genérica para que sirva de fonte de consulta por toda organização:
 
 1. Proposta de Patrocínio (Não há problema em mudar data e local da conferência)
-2. Site Simples no Ar (para dar credibilidade à proposta)
+2. Site Simples no Ar (para dar credibilidade à proposta) dica: <https://github.com/braziljs/conf-boilerplate>
 3. Pesquisa de locais
 4. Internet do local
 5. Transporte
