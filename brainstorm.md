@@ -12,3 +12,12 @@ Periodicamente, eu, Giovane Liberato, me comprometo a compilar e apresentar aos 
 **Sugerido por Giovane Liberato**
 
 **Hora Extra Patrocinado** - Empresas interessadas em divulgar seu produto num ambiente mais descontraído podem financiar as cerjevas do happy hour **Sugerido por Robson Monteiro**
+
+**Ônibus adesivado** - Parceria com empresa de transporte, que seriam adesivados com logos do Python e Python Brasil em troca de exclusividade no translado **Sugerido por Diego (Secretaria de turismo SJC)**
+
+**Atividades no shopping** - Montaríamos uma estrutura de acrilico (ao melhor estilo big brother) pra fazermos hackathon ou tutoriais ou curso de programação pra iniciantes a fim de divulgar a tecnologia e o evento **Sugerido por Diego, Renzo, Masanori**
+
+**Encontros Open Air** - Após o evento, poderiam acontecer atividades open air nos parques como cinema (monty python?) ou lightning talks
+
+**Curso de programação pra crianças** - As aulas seriam feitas com arduino + garoa dojo shield e as crianças levariam os dispositivos de brinde
+
