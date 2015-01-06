@@ -20,6 +20,7 @@ A idéia é que ela sirva de base, que poderão e deverão melhorá-la. Deve ser
 9. Empresa de tradução
 3. Fechamento de participação de palestrantes internacionais
 4. Fazer chamada de propostas para próxima Python Brasil <http://manual-do-big-kahuna.readthedocs.org/>
+5. https://github.com/erikr/lessobviouschecklist
 
 ==== Lista de Lembretes 
 
