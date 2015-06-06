@@ -3,6 +3,11 @@ pybr11
 
 pythonbrasil11
 
+Arte para Adesivos e itens para marketing verifique as pastas `adesivo`, `press` e `identidade-visual`. Essas artes são versões modificadas de algumas das criadas na [PythonBrasil8](https://github.com/pythonbrasil/organizacao-pybr8) . ps.: nem todas foram utilizadas.
+
+
+
+
 # Checklist
 
 Aqui devem constar uma lista cronológica de atividades a serem desenvolvidas para o bom andamento da conferência.
